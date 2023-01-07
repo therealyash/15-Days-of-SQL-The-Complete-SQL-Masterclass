@@ -1,0 +1,6 @@
+### Comcepts for Day 1
+- SELECT
+- ORDER BY
+- SELECT DISTINCT
+- LIMIT
+- COUNT()
