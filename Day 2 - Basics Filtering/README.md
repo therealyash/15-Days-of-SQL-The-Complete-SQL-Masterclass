@@ -1,4 +1,4 @@
-### Concepts in Day 3
+### Concepts in Day 2
 
 - WHERE
 - WHERE operator
