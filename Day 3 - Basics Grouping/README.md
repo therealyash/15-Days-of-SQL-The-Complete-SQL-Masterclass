@@ -1,0 +1,6 @@
+### Concepts in Day 3
+
+- AGGREGATE
+- GROUP BY 
+- GROUP BY MULTIPLE COLUMNS
+
